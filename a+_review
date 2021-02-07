@@ -1,0 +1,79 @@
+#To Revise for Comptia A+
+
+[ ] sfc /scannow
+[ ] robocopy /mir - mirrors directory with robocopy
+[ ] Which active directory component maps printer and drives during login?
+	-Login Script
+[ ] Processor sockets
+[ ] Which utility can be used in Linux to download patches for installation workstation
+	-apt-get
+[ ] Check the status of UAC and Windows Activation on windows 8/8.1
+	-action center
+[ ] OpenCL and CUDA
+	-CUDA is proprietary architecture from NVIDIA
+	-OpenCL is an open architecture, both are graphics-based p		parallel processing architectures.
+[ ] Which tool can be used to verify that a dsiplay driver is signed.
+	- dxdiag
+[ ] Which utility allowd you install an unsigned driver.
+	-Device Manager
+[ ] Laser Printer Pins
+	- Pin 5 = -5v
+	- Pin 1 = +5v
+	- Pin 9 = 24v
+[ ] Laptop Diplay is continuosly flickering, what is the likelycause?
+	-failing backlight
+	-failing inverter
+[ ] Toubleshooting.  When should test the obvious?  
+	-Establish a theory of probable cause
+[ ] Which protocol is used with claims based authentification of users?
+	-Single Sign-on (sso) is used in conjunction with Active Directoy for claims-based authentication.
+[ ] Upgrade path Windows 7 Ultimate?
+	-Windows 10 pro.
+[ ] for an av workstation, fast drives are a must.
+[ ] Which of the following commands can be used to configure a remote connection.
+	-MTSC (Microsoft Terminal Services Client)
+[ ] Port number used for SMTP when SSL is used to secure the connection
+	-465
+[ ] Which command terminates a running process at the command line
+	-taskkill
+[ ] Which utility allows you to chose the default operating system
+	-msconfig
+[ ] Which type of firewall blocks traffic to specific address based on the application associated with the data.
+	-packet-filter
+[ ] Ram modules (8:1 ratio) DDR400 = pc3200 and PC2-3200 = DDR2 - 400
+[ ] Power Supply Voltages (all DC) +3.3v, +5v, -5v, +12v, -12v.
+[ ] RTFQ - PoE = Power over Etherner
+[ ] Virtual Memory is configured through System Properties
+[ ] S/MIME - Secure/Multipurpose Internet Mail Extensions - public key encryption standard for encrypting and  decrypting email.
+[ ] reliability monitor is  used to view how often applications crash and the overall health of the operating system.
+[ ] Hard Drive optimal RW speed is the fastest listed.
+	-Will generate most heat.
+[ ] Ram in older laptop - MicroDimm and SODIMM
+[ ] REM - Comment in *Batch Script* 
+[ ] DC Adaptor - Power Laptop from car or plane.
+[ ] Windows 8 first release interface was called Metro UI
+[ ] Itunes requirement - 512mb RAM, 1GHz processor, Broadband INternet.
+[ ] DIMM ram pin numbers - 184, 240.
+[ ] Which change document management documentation contains whom the change will affect?
+	- Scope of change Document
+[ ] Port 587 - SMTP with TLS
+[ ] Port 465 - SMTP with SSL
+[ ] Port 993 - IMAP4 with SSL/TLS
+[ ] Port 995 - POP3 with SSL/TLS
+[ ] DDR4 RAM in Laptop - 260 pins
+[ ] PXE - Preboot Extension Enviroment - is a way of booting over a network so an instilation can be performed.
+[ ] Port 33983 - TCP port can be used for 3389.
+[ ] Port 139 - used with NetBios Protocol
+[ ] Port 443 - is used with Secure Socket Later (SSL)
+[ ] OSHA requirements for a safe work enviroment
+	- Use protective Gear and Equipment
+	- Follow all employer-implimented health and safety rules.
+[ ] Windows To Go - inluded in Windows 8 Enterprise Edition only.
+[ ] 100BaseFX is a fibre standard - doesn't work with CAT-5
+[ ] Revise wireless standards ac,b,g,n
+[ ] Zigbee - developed for the IOT - operates in 2.4ghz and 800-900mhz range.
+[ ] Z-wave developed for IOT - can only communicate in teh 800-900mhz range
+[ ] A unique application level-proxy server must exist for each protocol supported.
+[ ] Application RAM requirements include Operating System
+[ ] Ethernet Communicates using CSMA/CD Carrier Sense Multipla Access with Collision Detection.
+
