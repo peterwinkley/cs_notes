@@ -62,9 +62,11 @@
 [ ] Port 995 - POP3 with SSL/TLS
 [ ] DDR4 RAM in Laptop - 260 pins
 [ ] PXE - Preboot Extension Enviroment - is a way of booting over a network so an instilation can be performed.
-[ ] Port 33983 - TCP port can be used for 3389.
+[ ] Port 3398 - TCP port can be used for Remote Desktop
 [ ] Port 139 - used with NetBios Protocol
 [ ] Port 443 - is used with Secure Socket Later (SSL)
+[ ] Port 22 - SSH
+[ ] Port 23 - Telnet
 [ ] OSHA requirements for a safe work enviroment
 	- Use protective Gear and Equipment
 	- Follow all employer-implimented health and safety rules.
@@ -76,4 +78,49 @@
 [ ] A unique application level-proxy server must exist for each protocol supported.
 [ ] Application RAM requirements include Operating System
 [ ] Ethernet Communicates using CSMA/CD Carrier Sense Multipla Access with Collision Detection.
+[ ] Mesh Network no of connections x.(x-1)/2
+[ ] A customer with a thick accent, can't understand
+	- Apolagise and find another user or manager who can help translate.
+[ ] Powershell set variable $xvar = 2
+[ ] PC Computer has recently shown slow performance when opening and saving files
+	-Remove old files and applications to free up disk space
+[ ] First Commercial tablet computer
+	-GRiDPad
+[  ] When should you carry out external research based on symptoms
+	- 2nd Step - Establish a theory of probable cause.
+[ ] You cannot personalise a windows system until it is acitvated
+[ ] PCIe transefer speed
+	- PCIe 1.1 250MBps(per lane per direction) 
+	- PCIe 2.x 500MBps(per lane per direction) Total 1GBps per lane
+[ ] Microsoft Development Toolkit (MDP) streamlines the process for upgrading multiple machines and reduces tie for each individual install.
+[ ] Windows 7 Enterprise max ram 192
+[ ] Ethernet Standards
+	- 10GBaseT - Twisted Pair
+	- 10GBaseSR and LR are fibre standards
+	- 10GBaseER and EW are long range (e for extended)
+[ ] before you canexecute a bash script you must grant execute permissions using chmod
+[ ] Primary Plan - Rollback section contains original configuration that can be used to revert the changes.
+[ ] fixboot /REBUILDBCD - used to rebuild the boot configuration file
+[ ] Windows 7 enterprise supports 2 physical CPUS Home premium supports 1
+[ ] QoS level 5 is designated for voice and video
+[ ] Working Copies - backup kep on site for immediate recovery
+[ ] SSO is used to verify the identity of Bluetooth devices after pairing.
+[ ] sysprep.exe - allows you to ready the OS for imaging
+[ ] Commonly synced between app and a larger computer
+	- contacts
+	- email
+	- Apps
+[ ] BRI ISDN (Basic Rate Interface ISDN) - 2 digital channels that can be combined to increase throughput.
+[ ] Fire Extinguisher
+	- Class A: Wood and Paper fires
+	- Class B: Flammable liquids
+	- Class C: Electrical fires
+	- Class D: Flammable Metals
+[ ] RTOS - SIM OS, Baseband OS
+[ ] NFC uses Simple NDEF Exchange Protocol in peer-to-peer mode
+[ ] LDAP - Lightwieght Directory Access Protocol
+[ ] Program Variable - least significant enviroment variable so is not inherited
+[ ] MSDS - Material Safety Data Sheet contains details about chemicals and clean up procedures.
+[ ] MSTC - Microsoft Terminal Services Client is used to allow remote connection to windows operating system
+[ ] The maximum number of cocurrent connections on a windows 10 workstation is 20
 
